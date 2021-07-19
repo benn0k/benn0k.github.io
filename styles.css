@@ -10,9 +10,22 @@ thead {
 table {
     margin: auto;
     border: 2px purple solid;
+    width: 650px
 }
 
-h2 {color: rebeccapurple;}
+@media only screen and (max-width: 499px) {
+    table {
+        margin: auto;
+        border: 2px purple solid;
+        width: auto
+    }
+}
+
+
+
+h2 {
+    color: rebeccapurple;
+}
 
 
 
