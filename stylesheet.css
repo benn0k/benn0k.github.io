@@ -13,3 +13,5 @@ h1 {
     background-image: url(assets/pattern.webp);
     
 }
+
+.header-logo h1 {text-align: center;}
