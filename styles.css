@@ -32,9 +32,8 @@ h2 {
     position: fixed;
     left: 0px;
     bottom: 0px;
-    height: 40px;
     width: 100%;
-    background: #999;
+    background: pink;
 }
 
 .footer-text {
