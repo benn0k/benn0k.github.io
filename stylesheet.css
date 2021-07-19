@@ -1,5 +1,11 @@
+/* Origin Styles */
+
 * {
     font-family: Helvetica, Arial, sans-serif;
+}
+
+p {
+    font-size: 12px;
 }
 
 h1 {
@@ -18,10 +24,10 @@ h3 {
     font-size: 18px;
 }
 
+/* Class Styles  */
 
 .header-logo {
     background-image: url(assets/pattern.webp);
-
 }
 
 h1.header-logo {
@@ -30,4 +36,9 @@ h1.header-logo {
 
 .section-heading.brushes {
     background-color: mediumspringgreen;
+}
+
+.highlight {
+    color: blue;
+    font-weight: bold;
 }
