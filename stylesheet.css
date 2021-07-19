@@ -43,7 +43,7 @@ h1.header-logo {
 }
 
 .section-heading.paint {
-    color: skyblue
+    background-color: skyblue;
 }
 
 .highlight {
