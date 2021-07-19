@@ -7,6 +7,15 @@ thead {
     background-color: plum;
 }
 
+table {
+    margin: auto;
+    border: 1px purple;
+}
+
+h2 {color: rebeccapurple;}
+
+
+
 .body-background {
     background-color: lavenderblush;
 }
