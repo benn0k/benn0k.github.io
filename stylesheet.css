@@ -42,6 +42,10 @@ h1.header-logo {
     background-color: lightcoral;
 }
 
+.section-heading.paint {
+    color: skyblue
+}
+
 .highlight {
     color: blue;
     font-weight: bold;
